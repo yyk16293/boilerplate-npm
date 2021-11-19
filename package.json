@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "yogi"
+	"author": "yogi",
+	"description": "Yogi's learner project to start node.js"
 }
